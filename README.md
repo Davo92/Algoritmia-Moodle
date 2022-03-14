@@ -11,4 +11,6 @@ Proyecto en equipo, con personas de Costa Rica.
 
 -Creación de cursos(contenido proporcionado por profesores), y control  tanto del contenido de los cursos a través de Moodle, y gestión con los alumnos, matriculación, y orientación cara a la plataforma educativa.
 
--Elaboracion de videos, y contenido de interés en la plataforma, utilizando Envato, y videorobot, para imágenes y videos sin Copyright, y audios para estos.
+-Elaboracion de videos, y contenido de interés en la plataforma, utilizando Envato, y videorobot, para imágenes y videos sin Copyright, y audios para estos, y la edición llevada acabo en Camtasia.
+
+-Redes sociales, utilizando Hootsuite.
